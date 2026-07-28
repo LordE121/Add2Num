@@ -103,4 +103,4 @@ Expected result: all tests pass.
 
 ## Version for evaluation
 
-Publish the completed Task 1 version as `0.0.1` using the branch or tag workflow required by your Git server.
+Publish the completed Task 1 version on a Git branch named `core`. If you also need a semantic version marker, tag that same commit as `0.0.1`.
