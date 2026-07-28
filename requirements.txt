@@ -1,1 +1,2 @@
+# Test dependency only. The application itself has no external runtime packages.
 pytest
